@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prajwal-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-shrestha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prajwal-shrestha-4589a230a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-shrestha" height="30" width="40" /></a>
 <a href="https://fb.com/prajwal shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prajwal shrestha" height="30" width="40" /></a>
 <a href="https://instagram.com/prajwal.shrestha.7921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwal.shrestha.7921" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coding with prajwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding with prajwal" height="30" width="40" /></a>
